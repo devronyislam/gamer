@@ -1,0 +1,237 @@
+@media only screen and (max-width: 566px){
+    .container{ 
+        display: block;
+        align-items: center;
+    }
+    .navbar{
+        flex-direction: column;
+        margin: 0;
+        
+    }
+    .logo{
+        margin-left: 60px;
+        padding: 0;
+    }
+/* play section */
+.play{
+    flex-direction: column-reverse;
+}
+.play-image{
+    width: 100%;
+}
+
+.play-image img{
+    width: 450px;
+    margin: 10px 50px;
+}
+.play-contain{
+    width: 100%;
+}
+
+/* gamer */
+
+.gamer{
+    flex-direction: column-reverse;
+    display: inline-block;
+}
+
+.gamer-img{
+    width: 100%;
+}
+
+.gamer-img img{
+    width: 450px;
+}
+
+.gamer-contain{
+    width: 100%;
+    text-align: center; 
+}
+
+/* Funny section */
+.funny{
+    height: auto;
+}
+.funny-contain h2{
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.funny-contain p{
+    font-size: 15px;
+}
+.funny-card{
+    width: 100%;
+    display: block;
+    margin-left: 130px;
+}
+.funny-card, .card{
+    margin-top: 40px;
+}
+ .card img{
+    width: 400px;
+    margin-left: -50px;
+}
+
+.card p{
+    margin-left: -40px;
+}
+
+/* No Installs */
+
+.install{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.install-contain{
+    text-align: center;
+    width: 100%;
+}
+
+.big-image{
+    width: 70%;
+    margin-left: 50px;
+}
+
+.image {
+    margin-left: 50px;
+}
+
+/* Games Online */
+
+.online{
+    display: block;
+}
+
+.online-contain{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.online .image img{
+    margin-left: 50%;
+}
+
+/* careers */
+
+.careers{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 28rem;
+}
+
+.careers-image{
+    width: 80%;
+    margin-left: 30px;
+}
+
+/* logo section */
+
+.gamer-logo img{
+    width: 30px;
+}
+
+.gamer-logo p{
+    font-size: 12px;
+}
+
+/* footer */
+
+footer{
+    width: 100%;
+    background: #0B0223;
+}
+
+
+
+
+.footer-logo img{
+    margin-top: 10%;
+    width: 70px;
+
+}
+
+.footer-logo h2{
+    font-size: 30px;
+}
+
+.footer-menu h5{
+    font-size: 8px;
+    margin: 0;
+}
+
+
+.footer-logo h2{
+    color: #fff ;
+    margin-top: 10%;
+    font-size: 25px;
+
+}
+
+.footer-menu{
+    text-align: center;
+    margin-right: 100px;
+}
+
+.footer-icon{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #fff;
+    margin: 30px 0px;
+}
+
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+
+
+
+.footer-menu {
+    display: flex;
+    margin-left: 33%;
+    gap: 30px;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+.footer-contain a{
+    padding-left: 20px;
+    
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer p{
+color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 30px;
+} */
+
+
+
+
+
+}
